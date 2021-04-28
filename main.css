@@ -1,0 +1,26 @@
+.circles {
+    align-items: center;
+     display: flex;
+     justify-content: space-between;
+    width: 450px;
+ }
+ 
+ .circle {
+    background-color: #000;
+     border-radius: 50%;
+     height: 350px;
+     width: 350px;
+    /* Make changes here! */
+   
+ }
+ 
+ .circle--small {
+    height: 50px;
+    width: 50px;
+ }
+ 
+ .circle__image {
+  
+  
+ }
+ 
